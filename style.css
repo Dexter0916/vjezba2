@@ -1,0 +1,33 @@
+ol {
+    margin-left: -40px;
+    margin-top: -20px;
+    list-style-position: inside;
+  }
+  
+  /* Write your CSS below, don't change the rules above. */
+  p {
+    color: red;
+  }
+  
+  #id-selector-demo {
+    color: green;
+  }
+  ol li:nth-child(3) {
+    color: blue;
+  }
+  
+  .note3 {
+    text-align: center;
+  }
+  h1 {
+    text-align: center;
+  }
+  h2 {
+    text-align: center;
+  }
+  p {
+    text-align: center;
+  }
+  li {
+    text-align: center;
+  }
